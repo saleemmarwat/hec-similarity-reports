@@ -4,7 +4,7 @@
 **Date:** 19 Oct 2025
 
 **Download the Turnitin Similarity Report (PDF):**  
-- [Turnitin Report – 2025-10-19](reports/turnitin_report_2025-10-19.pdf)
+- [Turnitin Report – 2025-10-19](NRPU Proposal-similarity Index report.txt.pdf)
 
 ---
 **About**  
