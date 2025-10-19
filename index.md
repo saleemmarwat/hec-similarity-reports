@@ -3,8 +3,9 @@
 **PI:** Dr. Muhammad Saleem Khan  
 **Date:** 19 Oct 2025
 
+
 **Download the Turnitin Similarity Report (PDF):**  
-- [Turnitin Report – 2025-10-19](NRPU Proposal-similarity Index report.txt.pdf)
+[NRPU Proposal – Similarity Index Report](NRPU%20Proposal-similarity%20Index%20report.txt.pdf)
 
 ---
 **About**  
